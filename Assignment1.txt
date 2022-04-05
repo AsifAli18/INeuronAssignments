@@ -1,0 +1,108 @@
+'''
+
+1.In the below elements which of them are values or an expression? eg:- values can be
+integer or string and expressions will be mathematical operators.
+
+* ( Mathematical Operator)
+&#39;hello&#39; (Expression)
+-87.8 ( Values)
+-( Mathematical Operators)
+/ (Mathematical Operators)
++  (Mathematical Operators)
+6   (Values)
+
+
+
+
+2. What is the difference between string and variable?
+
+
+String is a predefined class used 
+where as vairable is the name given to memory loction where we store some kind of data.
+In Short Vairable is to store anykind of information in memory location but string is type of information we are going to store.
+
+
+3. Describe three different data types.
+
+        There are many daatypes in python as follows:
+
+            1.Integer: used to store numbers on both positive and negative 		values without fraction and Decimals and has no limit to store number.
+
+
+            2. Float:  used to store numbers with fraction or decimals 			without limit.
+
+
+            3. String Collection of characters stored in a single vairable 		and can have multiple syntax as follows
+
+        'This is a String'
+        "This is also a String"
+        \'''This is also a String\'''
+
+
+
+4.What is an expression made up of? What do all expressions do?
+
+      An Expression can be made up of multiple vairables ,methods,values and 	Mathematical Operators .
+      All Expressions Evaluate and Return single value which will be the 		outcome of the Expression.
+
+
+
+5. This assignment statements, like spam = 10. What is the difference 			between an
+	expression and a statement?
+
+    Assignment Statement will just assign some value to the Declared 			vairable
+    while coming to difference between expression and satement 
+    expression can contain multiple values and  will necessarily return on 		value as return type
+    where as statement will assign values and will not necessarily return 		any values.
+
+
+6. After running the following code, what does the variable bacon contain?
+    bacon = 22
+    bacon + 1
+    The Vairable bacon contain value 22
+
+
+
+7.What should the values of the following two terms be?
+    'spam'+'spamspam'
+    'spam' * 3
+
+    Answers are as follows:
+    1. spamspamspam
+    2.spamspamspam
+
+
+8. Why is eggs a valid variable name while 100 is invalid?
+
+
+    because Vairable name should not start with number , _ , or any other 		special characters so 100 is invalid whereas egg is a valid vairable.
+
+9. What three functions can be used to get the integer, floating-point number, or string
+version of a value?
+
+    The Functions used ar as follows
+
+    1.int() gives the Integer version  of a value
+    2. float() gives the floating-point numbe version of  a value
+    3. str() gives the String version of a value.
+
+
+
+10.Why does this expression cause an error? How can you fix it?
+'I Have eaten ' + 99 + 'Burritos'
+
+    The  error we get here is " only concatenate str (not "int") to str"
+    because here we are concatinating 99(int) to string
+
+    it can be solved as follows
+    'I Have eaten ' + '99 ' + 'Burritos'
+
+
+
+
+
+
+
+
+
+'''
