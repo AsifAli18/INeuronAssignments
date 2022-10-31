@@ -1,0 +1,26 @@
+1.What are the two different values of Boolean Data Type and how do you write them.
+	There are two types of Booelan Values and we write them as follows
+	True
+	False
+
+2. What are three different types of boolean operators
+
+	The three different types of Boolean Operators are 
+	
+	1. and 
+	2. or 
+	3. not
+
+3. Make a List of Each boolean operators truth tables[i.e. every possible combination of Boolean values for the operator and what it evulates)
+
+
+Value 1	Value 2	and (operator)		Value1	Value2	or(Operator)			Value1	Not (Operator)
+TRUE	FALSE	FALSE				TRUE	FALSE	TRUE					TRUE	FALSE	
+TRUE	TRUE	TRUE				TRUE	TRUE	TRUE					FALSE	TRUE	
+FALSE	TRUE	FALSE				FALSE	TRUE	TRUE				
+FALSE	FALSE	FALSE				FALSE	FALSE	FALSE			
+
+
+
+
+	
