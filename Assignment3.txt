@@ -1,0 +1,2 @@
+None is for Null of it's own NoneType
+print(type(none))
